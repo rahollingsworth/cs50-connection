@@ -28,4 +28,5 @@
   {"name":"Shawn Jones", "location":"Library", "progress":"pset 5", "photo":"shawn_jones.jpg", "project":""},
   {"name":"Steven Kantoni", "location":"Library", "progress":"pset 7", "photo":"steven_kantoni.jpg", "project":""},
   {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""}
-]
+] {"name":"Ryan Hollingsworth", "location":"Soldier's Memorial", "progress":"pset 3", "photo":"", "project":""}
+
